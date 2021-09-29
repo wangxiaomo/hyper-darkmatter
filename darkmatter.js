@@ -3,17 +3,17 @@ const foregroundColor = "#c0c5ce"
 const borderColor = backgroundColor
 const cursorColor = foregroundColor
 
-const red = "#d5713f"
-const green = "#75bb36"
-const yellow = "#e7e781"
-const blue = "#267faf"
-const magenta = "#a76ebf"
+const red = "#ff0000"
+const green = "#76f705"
+const yellow = "#fce21c"
+const blue = "#1f9de0"
+const magenta = "#da8bfc"
 const cyan = "#22bae4"
 const lightCyan = "#58dbff"
-const lightGreen = "#90cc5b"
-const lightBlack = "#65737e"
+const lightGreen = "#b6ff75"
+const lightBlack = "#515a61"
 const lightBlue = blue
-const lightMagenta = "#d1a9ce"
+const lightMagenta = "#ebb9e6"
 
 const extendConfig = ({css, ...config}) => ({
   ...config,
